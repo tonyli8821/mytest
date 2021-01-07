@@ -1,5 +1,9 @@
 public class Compare{
+	static int a ;
   public static void main(String[] args){
+
+	a = 3;
+	System.out.println(a);
     String c1 = new String("abc");
     String c2 = new String("abc");
     String c3 = c1;
